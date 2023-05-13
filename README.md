@@ -12,4 +12,4 @@ npm install @feathermint/dynamodb
 
 ## Usage
 
-Head over to the [test file](https://github.com/feathermint/dynamodb/blob/master/test/object_storage.test.ts) for code examples.
+Head over to the [test file](https://github.com/feathermint/dynamodb/blob/master/test/dynamodb.test.ts) for code examples.
