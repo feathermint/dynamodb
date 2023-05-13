@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/feathermint/dynamodb/compare/v1.0.0...v1.0.1) (2023-05-13)
+
+
+### Bug Fixes
+
+* add changelog to .prettierignore ([311b9fd](https://github.com/feathermint/dynamodb/commit/311b9fda4cdcccfa1bd688a22b25edf4d3e5ae87))
+* link to code example ([3649141](https://github.com/feathermint/dynamodb/commit/3649141194a2bc64ba738be6e78bb629bd931547))
+
 ## 1.0.0 (2023-05-13)
 
 
