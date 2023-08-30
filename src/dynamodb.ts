@@ -14,7 +14,7 @@ export interface DymamoDBConfig extends DynamoDBClientConfig {
 
 export class DynamoDB<
   Key extends GetItemCommandInput["Key"],
-  Item extends PutItemCommandInput["Item"]
+  Item extends PutItemCommandInput["Item"],
 > {
   readonly #client: DynamoDBClient;
   readonly #defaultTable: string;
