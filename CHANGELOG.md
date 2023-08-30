@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/feathermint/dynamodb/compare/v1.0.1...v1.0.2) (2023-08-30)
+
+
+### Bug Fixes
+
+* update dependencies, add license ([8d74b8e](https://github.com/feathermint/dynamodb/commit/8d74b8edee52a7c32b3413a936a59f38bec1fad9))
+
 ## [1.0.1](https://github.com/feathermint/dynamodb/compare/v1.0.0...v1.0.1) (2023-05-13)
 
 

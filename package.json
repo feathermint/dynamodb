@@ -1,6 +1,6 @@
 {
   "name": "@feathermint/dynamodb",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "AWS DynamoDB client wrapper optimised for the most commonly used actions.",
   "author": "Feathermint",
   "license": "GPL-3.0-or-later",
